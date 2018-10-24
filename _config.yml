@@ -2,21 +2,17 @@
 # 导航栏
 nav_menu:
   - name: 主页
-    slug: about
-    icon: fa-home
-    url: /
-  - name: 项目
-    slug: projects
-    icon: fa-cube
-    url: https://xaoxuu.com/proj
-  - name: 博客
     slug: home
-    icon: fa-rss
+    icon: fa-home
     url: /
   - name: 归档
     slug: archives
     icon: fa-archive
     url: /archives
+  - name: 关于
+    slug: about
+    icon: fa-user
+    url: /about
 
 # 右边的小窗口，不想显示哪一项的注释掉对应的即可
 widgets:
