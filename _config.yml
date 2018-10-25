@@ -2,6 +2,7 @@
 #网站图标
 shortcut_icon: /favicon.ico
 favicon: /favicon.ico
+
 # 导航栏
 nav_menu:
   - name: 主页
@@ -114,4 +115,7 @@ search:
 # Less
 less:
   compress: true
+
+# 谷歌统计,格式 UA-xxxx-x
+google_analytics: 
 # >> 主题配置 ---------------------------------------------------------------------
