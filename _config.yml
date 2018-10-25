@@ -1,4 +1,7 @@
 # >> 主题配置 ---------------------------------------------------------------------
+#网站图标
+shortcut_icon: /favicon.ico
+favicon: /favicon.ico
 # 导航栏
 nav_menu:
   - name: 主页
