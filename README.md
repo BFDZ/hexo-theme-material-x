@@ -2,10 +2,6 @@
 
 一个简约卡片式的Hexo博客主题，针对中国大陆进行优化修改。
 
-## 示例
-
-[https://www.bfdz.ink/](https://www.bfdz.ink/)
-
 ## 修改项
 
 - 使用 fonts.loli.net 提供的 Google Fonts 加速服务
